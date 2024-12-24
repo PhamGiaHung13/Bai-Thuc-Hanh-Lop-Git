@@ -1,2 +1,0 @@
-UI animations
-Fix bug in UI animations
