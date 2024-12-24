@@ -1,1 +1,2 @@
 base game
+integrate MAX Applovin service
